@@ -1,4 +1,4 @@
-# InfCloud for Radicale
+:q# InfCloud for Radicale
 
 Integrate [InfCloud](https://www.inf-it.com/open-source/clients/infcloud/) into
 [Radicale](http://radicale.org/)'s web interface.
@@ -24,8 +24,8 @@ The value of  `infcloud_config` is appended to InfCloud's `config.js`.
 [web]
 type = radicale_infcloud
 # Optional InfCloud configuration
-infcloud_config = globalInterfaceLanguage='de_DE';
-                  globalTimeZone='Europe/Berlin';
+infcloud_config = globalInterfaceLanguage='zh_TW';
+                  globalTimeZone=''Asia/Taipei';
 ```
 
 ## License
